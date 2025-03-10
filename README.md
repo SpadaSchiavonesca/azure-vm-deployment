@@ -1,4 +1,4 @@
-# Creating a Virtual Machine in Azure Portal
+# Creating a Virtual Machine in MS Azure Portal
 
 This repository provides step-by-step guidance on how to create a virtual machine in Azure Portal, based on the [ScribeHow Guide](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw).
 
